@@ -1,1 +1,4 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+# Project restult - [LS markdown page](https://lukaszsarzynski.github.io/markdown-portfolio/)
+
+## Addons
+* [list of github emoji](https://gist.github.com/rxaviers/7360908)
