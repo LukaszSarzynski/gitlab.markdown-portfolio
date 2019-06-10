@@ -1,2 +1,2 @@
-# Łukasz Sarzyńśki
+# Łukasz Sarzyński
 
