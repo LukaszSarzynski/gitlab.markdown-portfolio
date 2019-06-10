@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Lukasz Sarzynski head](https://lukasz-sarzynski.przedstawia.info//images/lsarzynski.jpeg)
