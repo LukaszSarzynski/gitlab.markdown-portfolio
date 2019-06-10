@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+* [freeCodeCamp](https://www.freecodecamp.org/lukasz-sarzynski)
+* [LinkedIn](https://www.linkedin.com/in/lukasz-sarzynski/)
+* [Twitter](https://twitter.com/lukaszsarzynski)
+* [GitHub](https://github.com/LukaszSarzynski/)
